@@ -1,0 +1,93 @@
+body{
+  background-color: #ffffff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.navbar-brand{
+  color: crimson;
+  font-size: 2rem;
+}
+#my{
+  height: 20rem;
+}
+.navbar-nav{
+color: black !important;
+}
+.new{
+  margin-left: 20px;
+}
+/* .f-info-links{
+ width: 100%;
+
+
+} */
+.f-socialmedia,.f-info-links,.title-web{
+  width: 100%;
+  vertical-align: middle;
+  display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ align-content: center;
+ text-align: center;
+}
+.f-socialmedia i{
+  margin-right: 1.3rem;
+  font-size: 1.25rem;
+}
+.web-container{
+  height: 8rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+ text-align: center;
+  background-color: #ebebeb;
+}
+#a{
+  text-decoration: none;
+  color: black;
+  margin-right: 1rem;
+ 
+}
+#a:hover{
+  text-decoration: underline;
+
+}
+.card{
+  border: none;
+  margin-bottom: 1rem;
+  margin-left: 1rem;
+}
+.card-p{
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+img{
+  height: 20rem;
+}
+.card-body{
+  padding: 0;
+}
+.card-img-top{
+  border-radius: 1rem;
+  object-fit:cover;
+}
+.card a{
+  text-decoration: none;
+  color: black;
+}
+.card a:hover{
+  text-decoration: underline;
+}
+img:hover{
+  filter: brightness(110%)  ;
+}
+.add-btn{
+  background-color: crimson !important;
+}
+.showimg{
+  height: 20vh;
+  width: 5%;
+ 
+}
