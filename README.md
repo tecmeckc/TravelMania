@@ -12,8 +12,8 @@
 ## 🛠️ Technologies Used
 - HTML / CSS / Bootstrap (Frontend)
 - JavaScript (for interactivity)
-- Node.js + Express (Backend) *(if applicable)*
-- MongoDB
+- Node.js + Express (Backend)
+- MongoDB (database)
 
 
 
